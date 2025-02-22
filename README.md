@@ -13,3 +13,5 @@
 **MENTOR**: NEELA SANTHOSH KUMAR
 
 **DESCRIPTION**: MAKING A REALTIME DASHBOARD WITH SIMULATED API FEED(JSON).
+
+**WEB**: https://jsonplaceholder.typicode.com/users
